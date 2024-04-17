@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/NischayYadav615/THEMOVIEBOT">
+<a href="https://github.com/NYBotx/THEMOVIEBOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
